@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/model/PelangganModel.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/service/PelangganDao.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/entity/Pelanggan.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/controller/PelangganController.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/model/TabelPelangganModel.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/error/PelangganException.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/main/LatihanMVCJDBC.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/impl/PelangganDaoImpl.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/database/KingsBarbershopDatabase.java</file>
+            <file>file:/C:/Users/Naufal%20Asha/Documents/NetBeansProjects/LatihanMVCJDBC/src/latihanmvcjdbc/event/PelangganListener.java</file>
+        </group>
+    </open-files>
+</project-private>
